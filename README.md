@@ -1,1 +1,1 @@
-# atomatic-watering-system
+# automatic-watering-system
